@@ -39,3 +39,8 @@ Thumbs.db
 #JetBrains Rider
 *.idea
 .idea
+
+CarouselView/CarouselView.FormsPlugin.Android/Resources/Resource.Designer.cs 
+Droid/Resources/Resource.Designer.cs 
+/CarouselView/CarouselView.FormsPlugin.Android/Resources/Resource.Designer.cs
+/Droid/Resources/Resource.designer.cs
